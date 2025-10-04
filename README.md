@@ -48,7 +48,7 @@
 ```
     python main.py
 ```
-    *请确保先进入 Aim Lab 并打开 Gridshot Ultimate 模式。*
+*请确保先进入 Aim Lab 并打开 Gridshot Ultimate 模式。*
 
 3.  **快捷按键**:
     *   **o** : 启动自瞄（但不自动射击）。
