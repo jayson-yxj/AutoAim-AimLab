@@ -43,6 +43,7 @@
     先设置窗口名称(main.py)
 ```
     monitor = WindowInputMonitor("aimlab_tb") # 指定监听窗口
+    # 指定你的aimlab的真实窗口名
 ```
 ```
     python main.py
