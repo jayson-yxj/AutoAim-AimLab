@@ -1,4 +1,4 @@
-# AutoAim-AimLab-
+# AutoAim-AimLab
 基于传统视觉的适用于aimlab中的Gridshot(Ultimate)项目自动瞄准设计程序
 ## 成绩展示
 ![88de58fcaac83a254a53af7d51839a14](https://github.com/user-attachments/assets/f1a8cd51-04c6-4ffe-b73d-d1b9b92e2f72)
